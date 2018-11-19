@@ -1,0 +1,10 @@
+/*
+Theme Name: blabla
+Template: twentyfifteen
+*/
+
+@import url("../twentyfifteen/style.css");
+
+.site-header h1 {
+    color:green;
+}
